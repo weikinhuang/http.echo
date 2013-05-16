@@ -1,0 +1,6 @@
+*				eol=lf
+
+*.php			diff=php
+*.html			diff=html
+*.js			diff=js
+*.css			diff=css
